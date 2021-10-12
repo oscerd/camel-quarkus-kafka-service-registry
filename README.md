@@ -1,4 +1,4 @@
-== Camel Quarkus Kafka Example involving the Service Registry Managed Service
+=== Camel Quarkus Kafka Example involving the Service Registry Managed Service
 
 1. Create Kafka Managed Service instance on cloud.redhat.com
 2. Create associated Service Account, save client Id and Client Secret
